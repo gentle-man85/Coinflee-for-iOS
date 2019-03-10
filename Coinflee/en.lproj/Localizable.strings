@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Bitcoin
+
+  Created by alex on 2/20/19.
+  Copyright © 2019 Kevin. All rights reserved.
+*/
+"Market Cap" = "Market Cap";
+"Search your favorite coin" = "Search your favorite coin";
+"Cancel" = "Cancel";
+"Add Transaction" = "Add Transaction";
+"Favorites" = "Favorites";
+"all" = "all";
+"add" ="add";
+"favorites" = "favorites";
+"Amount" = "Amount";
+"Price" = "Price";
+"Current Price" = "Current Price";
+"Add Trade" = "Add Trade";
+"Add your first icon by" = "Add your first icon by";
+"clicking the" = "clicking the";
+"icon" = "icon";
+"Total Portfolio Value" = "Total Portfolio Value";
+"Add" = "Add";
+"Name" = "Name";
+"Price" = "Price";
+"Profit/Loss" = "Profit/Loss";
+"Total" = "Total";
+"Latest News" = "Latest News";
+"Settings" = "Settings";
+"Manage" = "Manage";
+"Pro Version is Enabled" = "Pro Version is Enabled";
+"Notification" = "Notification";
+"Language" = "Language";
+"Follow us on twitter" = "Follow us on twitter";
+"Rate our app" = "Rate our app";
+"Coinflee App Version 1.0" = "Coinflee App Version 1.0";
+"English" = "English";
+"Chinese" = "Chinese";
+"Japanese" = "Japanese";
+"French" = "French";
+"Turkish" = "Turkisy";
+"Korean" = "Korean";
+"Russian" = "Russian";
+"Spanish" = "Spanish";
+"Portuguese" = "Portuguese";
+"German" = "German";
+"Upgrade to Pro" = "Upgrade to Pro";
+"UpgradeMessage" = "Your portfolio has reached over $1,000 in value, To keep using coinflee portfolio you need to upgrade to the pro version that give you unlimited portfolio value.";
+"ALL" = "ALL";
+"Default Currency" = "Default Currency";
+"US Dollar" = "US Dollar";
+"Australian Dollar" = "Australian Dollar";
+"Brazilian Real" = "Brazilian Real";
+"British Pound Sterling" = "British Pound Sterling";
+"Canadian Dollar" = "Canadian Dollar";
+"Chinese Yuan" = "Chinese Yuan";
+"Euro" = "Euro";
+"Mexico Peso" = "Mexico Peso";
+"buy" = "buy";
+"sell" = "sell";
+"1 Day Change" = "1 Day Change";
+"Volume(24 hours)" = "Volume(24 hours)";
+"Available Supply" = "Available Supply";
+"Total Supply" = "Total Supply";
+"Low(24 hours)" = "Low(24 hours)";
+"High(24 hours)" = "High(24 hours)";
+"Select Coin" = "Select Coin";

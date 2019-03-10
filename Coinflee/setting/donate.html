@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <div>
+            <a class="donate-with-crypto" style="width:100%; " id="link"
+            href="https://commerce.coinbase.com/checkout/b374cdab-a5cc-4732-8079-faa0d1f72618">
+                <span>Donate with Crypto</span>
+            </a>
+            <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>
+        </div>
+        <h5 style="margin-top:5px;text-align: center;">Double Tap to Donate</h5>
+        <script type="text/javascript">
+            
+         function sendLinkAction() {
+             try {
+                 webkit.messageHandlers.linkAction.postMessage("message send");
+             } catch(err) {
+                 console.log('The native context does not exist yet');
+             }
+         }
+        
+        document.getElementById("link").addEventListener("click", sendLinkAction);
+       
+        </script>
+    </body>
+</html>

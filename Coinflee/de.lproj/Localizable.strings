@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Bitcoin
+
+  Created by kcg on 2/20/19.
+  Copyright © 2019 Kevin. All rights reserved.
+*/
+"Market Cap" = "Marktkapitalisierung";
+"Search your favorite coin" = "Suchen Sie Ihre Lieblingsmünze";
+"Cancel" = "Stornieren";
+"Add Transaction" = "Transaktion hinzufügen";
+"Favorites" = "Favoriten";
+"all" = "alles";
+"add" ="hinzufügen";
+"favorites" = "Favoriten";
+"Amount" = "Menge";
+"Price" = "Preis";
+"Current Price" = "Derzeitiger Preis";
+"Add Trade" = "Handel hinzufügen";
+"Add your first icon by" = "Fügen Sie Ihr erstes Symbol hinzu";
+"clicking the" = "Klicken Sie auf die";
+"icon" = "Symbol";
+"Total Portfolio Value" = "Gesamtwert des Portfolios";
+"Add" = "Hinzufügen";
+"Name" = "Name";
+"Price" = "Preis";
+"Profit/Loss" = "Profitieren/Verlust";
+"Total" = "Gesamt";
+"Latest News" = "Neuesten Nachrichten";
+"Settings" = "die Einstellungen";
+"Manage" = "Verwalten";
+"Pro Version is Enabled" = "Pro Version ist aktiviert";
+"Notification" = "Benachrichtigung";
+"Language" = "Sprache";
+"Follow us on twitter" = "Folge uns auf Twitter";
+"Rate our app" = "Bewerten Sie unsere App";
+"Coinflee App Version 1.0" = "Coinflee App Version 1.0";
+"English" = "Englisch";
+"Chinese" = "Chinesisch";
+"Japanese" = "japanisch";
+"French" = "Französisch";
+"Turkish" = "Türkisch";
+"Korean" = "Koreanisch";
+"Russian" = "Russisch";
+"Spanish" = "Spanisch";
+"Portuguese" = "Portugiesisch";
+"German" = "Deutsche";
+"Upgrade to Pro" = "Upgrade auf Pro";
+"UpgradeMessage" = "Ihr Portfolio hat einen Wert von über 1.000 USD. Um das Coinflee-Portfolio weiterhin nutzen zu können, müssen Sie ein Upgrade auf die Pro-Version durchführen, die Ihnen einen unbegrenzten Portfoliowert bietet.";
+"ALL" = "ALLES";
+"Default Currency" = "Standardwährung";
+"US Dollar" = "US Dollar";
+"Australian Dollar" = "Australischer Dollar";
+"Brazilian Real" = "brasilianischer Real";
+"British Pound Sterling" = "Britisches Pfund Sterling";
+"Canadian Dollar" = "Kanadischer Dollar";
+"Chinese Yuan" = "Chinesische Yuan";
+"Euro" = "Euro";
+"Mexico Peso" = "Mexiko-Peso";
+"buy" = "Kaufen";
+"sell" = "verkaufen";
+"1 Day Change" = "1 Tag wechseln";
+"Volume(24 hours)" = "Volumen (24 Stunden)";
+"Available Supply" = "Verfügbares Angebot";
+"Total Supply" = "Gesamtangebot";
+"Low(24 hours)" = "Niedrig (24 Stunden)";
+"High(24 hours)" = "Hoch (24 Stunden)";
+"Select Coin" = "Münze wählen";

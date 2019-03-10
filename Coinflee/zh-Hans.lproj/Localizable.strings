@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Bitcoin
+
+  Created by kcg on 2/20/19.
+  Copyright © 2019 Kevin. All rights reserved.
+*/
+"Market Cap" = "市值";
+"Search your favorite coin" = "搜索你最喜欢的硬币";
+"Cancel" = "取消";
+"Add Transaction" = "添加交易";
+"Favorites" = "最爱";
+"all" = "所有";
+"add" ="加";
+"favorites" = "最爱";
+"Amount" = "量";
+"Price" = "价钱";
+"Current Price" = "目前的价格";
+"Add Trade" = "添加贸易";
+"Add your first icon by" = "添加您的第一个图标";
+"clicking the" = "点击";
+"icon" = "图标";
+"Total Portfolio Value" = "总投资组合价值";
+"Add" = "加";
+"Name" = "名称";
+"Price" = "价钱";
+"Profit/Loss" = "利润/失利";
+"Total" = "总";
+"Latest News" = "最新消息";
+"Settings" = "设置";
+"Manage" = "管理";
+"Pro Version is Enabled" = "专业版已启用";
+"Notification" = "通知";
+"Language" = "语言";
+"Follow us on twitter" = "在推特上关注我们";
+"Rate our app" = "评价我们的应用";
+"Coinflee App Version 1.0" = "Coinflee App Version 1.0";
+"English" = "英语";
+"Chinese" = "中文";
+"Japanese" = "日本";
+"French" = "法国";
+"Turkish" = "土耳其";
+"Korean" = "朝鲜的";
+"Russian" = "俄语";
+"Spanish" = "西班牙语";
+"Portuguese" = "葡萄牙语";
+"German" = "德语";
+"Upgrade to Pro" = "升级到专业版";
+"UpgradeMessage" = "您的投资组合价值已超过1,000美元。要继续使用coinflee产品组合，您需要升级到专业版，为您提供无限的投资组合价值。";
+"ALL" = "所有";
+"Default Currency" = "默认货币";
+"US Dollar" = "美元";
+"Australian Dollar" = "澳元";
+"Brazilian Real" = "巴西雷亚尔";
+"British Pound Sterling" = "英镑";
+"Canadian Dollar" = "加元";
+"Chinese Yuan" = "中国元";
+"Euro" = "欧元";
+"Mexico Peso" = "墨西哥比索";
+"buy" = "购买";
+"sell" = "卖";
+"1 Day Change" = "1天变更";
+"Volume(24 hours)" = "卷（24小时）";
+"Available Supply" = "可用供应";
+"Total Supply" = "总供应量";
+"Low(24 hours)" = "低（24小时）";
+"High(24 hours)" = "高（24小时）";
+"Select Coin" = "选择硬币";

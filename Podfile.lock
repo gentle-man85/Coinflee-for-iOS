@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.0.0-beta.2)
+  - Charts (3.2.2):
+    - Charts/Core (= 3.2.2)
+  - Charts/Core (3.2.2)
+  - MBProgressHUD (1.1.0)
+  - PromiseKit (6.8.3):
+    - PromiseKit/CorePromise (= 6.8.3)
+    - PromiseKit/Foundation (= 6.8.3)
+    - PromiseKit/UIKit (= 6.8.3)
+  - PromiseKit/CorePromise (6.8.3)
+  - PromiseKit/Foundation (6.8.3):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.8.3):
+    - PromiseKit/CorePromise
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.2)
+  - Charts
+  - MBProgressHUD (~> 1.1.0)
+  - PromiseKit
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Charts
+    - MBProgressHUD
+    - PromiseKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: d1e5493588babe3e7b56ae29e8032942f4de09fe
+  Charts: f69cf0518b6d1d62608ca504248f1bbe0b6ae77e
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  PromiseKit: 94c6e781838c5bf4717677d0d882b0e7250c80fc
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: eb54e1a6619a89e5d433d386214bb40bc4b12519
+
+COCOAPODS: 1.6.0

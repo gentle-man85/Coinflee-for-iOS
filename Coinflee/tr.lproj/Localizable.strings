@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Bitcoin
+
+  Created by kcg on 2/20/19.
+  Copyright © 2019 Kevin. All rights reserved.
+*/
+"Market Cap" = "Piyasa değeri";
+"Search your favorite coin" = "En sevdiğiniz parayı arayın";
+"Cancel" = "İptal etmek";
+"Add Transaction" = "İşlem ekle";
+"Favorites" = "Favoriler";
+"all" = "herşey";
+"add" ="eklemek";
+"favorites" = "Favoriler";
+"Amount" = "Miktar";
+"Price" = "Fiyat";
+"Current Price" = "Mevcut fiyat";
+"Add Trade" = "Ticaret ekle";
+"Add your first icon by" = "İlk simgenizi şuraya ekleyin:";
+"clicking the" = "tıklayarak";
+"icon" = "ikon";
+"Total Portfolio Value" = "Toplam Portföy Değeri";
+"Add" = "Eklemek";
+"Name" = "isim";
+"Price" = "Fiyat";
+"Profit/Loss" = "kâr/kayıp";
+"Total" = "Genel Toplam";
+"Latest News" = "Son Haberler";
+"Settings" = "Ayarlar";
+"Manage" = "yönetme";
+"Pro Version is Enabled" = "Pro Sürüm Etkin";
+"Notification" = "Bildirim";
+"Language" = "Dil";
+"Follow us on twitter" = "Bizi Twitter'da takip edin";
+"Rate our app" = "Uygulamamızı oylayın";
+"Coinflee App Version 1.0" = "Coinflee App Version 1.0";
+"English" = "ingilizce";
+"Chinese" = "Çince";
+"Japanese" = "Japonca";
+"French" = "Fransızca";
+"Turkish" = "Türk";
+"Korean" = "Koreli";
+"Russian" = "Rusça";
+"Spanish" = "İspanyol";
+"Portuguese" = "Portekizce";
+"German" = "Almanca";
+"Upgrade to Pro" = "Pro'ya yükselt";
+"UpgradeMessage" = "Portföyünüz değerinde 1.000 $ 'a ulaştı, Coinflee portföyünü kullanmaya devam etmek için size sınırsız portföy değeri veren pro sürüme yükseltmeniz gerekir.";
+"ALL" = "HERŞEY";
+"Default Currency" = "Varsayılan Para Birimi";
+"US Dollar" = "Amerikan Doları";
+"Australian Dollar" = "Avustralya Doları";
+"Brazilian Real" = "Brezilya Reali";
+"British Pound Sterling" = "İngiliz Sterlini";
+"Canadian Dollar" = "Kanada Doları";
+"Chinese Yuan" = "Çin Yuanı";
+"Euro" = "Euro";
+"Mexico Peso" = "Meksika Pesosu";
+"buy" = "satın almak";
+"sell" = "satmak";
+"1 Day Change" = "1 Gün Değişikliği";
+"Volume(24 hours)" = "Hacim (24 saat)";
+"Available Supply" = "Mevcut tedarik";
+"Total Supply" = "Toplam Arz";
+"Low(24 hours)" = "Düşük (24 saat)";
+"High(24 hours)" = "Yüksek (24 saat)";
+"Select Coin" = "Madeni Para Seç";

@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Bitcoin
+
+  Created by kcg on 2/20/19.
+  Copyright © 2019 Kevin. All rights reserved.
+*/
+"Market Cap" = "Рыночная капитализация";
+"Search your favorite coin" = "Найдите свою любимую монету";
+"Cancel" = "отменить";
+"Add Transaction" = "Добавить транзакцию";
+"Favorites" = "Избранные";
+"all" = "все";
+"add" ="добавлять";
+"favorites" = "избранное";
+"Amount" = "Количество";
+"Price" = "Цена";
+"Current Price" = "Текущая цена";
+"Add Trade" = "Добавить сделку";
+"Add your first icon by" = "Добавьте свой первый значок";
+"clicking the" = "нажав на";
+"icon" = "значок";
+"Total Portfolio Value" = "Общая стоимость портфеля";
+"Add" = "добавлять";
+"Name" = "название";
+"Price" = "Цена";
+"Profit/Loss" = "прибыль/потеря";
+"Total" = "Всего";
+"Latest News" = "Последние новости";
+"Settings" = "настройки";
+"Manage" = "управлять";
+"Pro Version is Enabled" = "Pro версия включена";
+"Notification" = "уведомление";
+"Language" = "язык";
+"Follow us on twitter" = "Следуйте за нами на Twitter";
+"Rate our app" = "Оцените наше приложение";
+"Coinflee App Version 1.0" = "Coinflee App Version 1.0";
+"English" = "английский";
+"Chinese" = "китайский язык";
+"Japanese" = "японский язык";
+"French" = "Французский";
+"Turkish" = "турецкий";
+"Korean" = "корейский язык";
+"Russian" = "русский";
+"Spanish" = "испанский";
+"Portuguese" = "португальский";
+"German" = "Немецкий";
+"Upgrade to Pro" = "Обновление до Pro";
+"UpgradeMessage" = "Стоимость вашего портфеля превысила 1000 долларов. Чтобы продолжать использовать портфель coinflee, вам необходимо перейти на профессиональную версию с неограниченной стоимостью портфеля.";
+"ALL" = "ВСЕ";
+"Default Currency" = "Валюта по умолчанию";
+"US Dollar" = "Доллар США";
+"Australian Dollar" = "Австралийский доллар";
+"Brazilian Real" = "Бразильский реал";
+"British Pound Sterling" = "Британский фунт стерлингов";
+"Canadian Dollar" = "Канадский доллар";
+"Chinese Yuan" = "Китайский юань";
+"Euro" = "Евро";
+"Mexico Peso" = "Мексика песо";
+"buy" = "купить";
+"sell" = "продавать";
+"1 Day Change" = "1 день смена";
+"Volume(24 hours)" = "Объем (24 часа)";
+"Available Supply" = "Доступная поставка";
+"Total Supply" = "Всего поставок";
+"Low(24 hours)" = "Низкий (24 часа)";
+"High(24 hours)" = "Высокий (24 часа)";
+"Select Coin" = "Выберите монету";

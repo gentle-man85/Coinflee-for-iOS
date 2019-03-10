@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Bitcoin
+
+  Created by kcg on 2/20/19.
+  Copyright © 2019 Kevin. All rights reserved.
+*/
+"Market Cap" = "시가 총액";
+"Search your favorite coin" = "좋아하는 동전 검색";
+"Cancel" = "취소";
+"Add Transaction" = "거래 추가";
+"Favorites" = "즐겨 찾기";
+"all" = "모든";
+"add" ="더하다";
+"favorites" = "즐겨 찾기";
+"Amount" = "양";
+"Price" = "가격";
+"Current Price" = "현재 가격";
+"Add Trade" = "무역 추가";
+"Add your first icon by" = "첫 번째 아이콘을 다음과 같이 추가하십시오.";
+"clicking the" = "클릭";
+"icon" = "상";
+"Total Portfolio Value" = "총 포트폴리오 가치";
+"Add" = "더하다";
+"Name" = "이름";
+"Price" = "가격";
+"Profit/Loss" = "이익/손실";
+"Total" = "합계";
+"Latest News" = "최근 소식";
+"Settings" = "설정";
+"Manage" = "꾸리다";
+"Pro Version is Enabled" = "프로 버전 사용";
+"Notification" = "공고";
+"Language" = "언어";
+"Follow us on twitter" = "트위터에 우리를 따르라.";
+"Rate our app" = "앱 평가하기";
+"Coinflee App Version 1.0" = "Coinflee App Version 1.0";
+"English" = "영어";
+"Chinese" = "중국말";
+"Japanese" = "일본어";
+"French" = "프랑스 국민";
+"Turkish" = "터키어";
+"Korean" = "한국어";
+"Russian" = "러시아인";
+"Spanish" = "스페인 사람";
+"Portuguese" = "포르투갈 인";
+"German" = "독일 사람";
+"Upgrade to Pro" = "프로로 업그레이드";
+"UpgradeMessage" = "포트폴리오가 $ 1,000 이상 가치에 도달했습니다. coinflee 포트폴리오를 계속 사용하려면 무제한 포트폴리오 가치를 제공하는 pro 버전으로 업그레이드해야합니다.";
+"ALL" = "모든";
+"Default Currency" = "기본 통화";
+"US Dollar" = "미국 달러";
+"Australian Dollar" = "호주 달러";
+"Brazilian Real" = "브라질 레알";
+"British Pound Sterling" = "영국 파운드 스털링";
+"Canadian Dollar" = "캐나다 달러";
+"Chinese Yuan" = "중국 위안";
+"Euro" = "유로";
+"Mexico Peso" = "멕시코 페소";
+"buy" = "사다";
+"sell" = "팔다";
+"1 Day Change" = "1 일 변경";
+"Volume(24 hours)" = "볼륨 (24 시간)";
+"Available Supply" = "이용 가능한 공급";
+"Total Supply" = "총 공급";
+"Low(24 hours)" = "낮음 (24 시간)";
+"High(24 hours)" = "높음 (24 시간)";
+"Select Coin" = "동전 선택";

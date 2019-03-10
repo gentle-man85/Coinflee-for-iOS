@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Bitcoin
+
+  Created by kcg on 2/20/19.
+  Copyright © 2019 Kevin. All rights reserved.
+*/
+"Market Cap" = "時価総額";
+"Search your favorite coin" = "お気に入りのコインを探す";
+"Cancel" = "キャンセル";
+"Add Transaction" = "トランザクションを追加";
+"Favorites" = "お気に入り";
+"all" = "すべて";
+"add" ="追加する";
+"favorites" = "お気に入り";
+"Amount" = "量";
+"Price" = "価格";
+"Current Price" = "現在の価格";
+"Add Trade" = "取引を追加";
+"Add your first icon by" = "最初のアイコンを";
+"clicking the" = "をクリック";
+"icon" = "アイコン";
+"Total Portfolio Value" = "総ポートフォリオ価値";
+"Add" = "追加する";
+"Name" = "名";
+"Price" = "価格";
+"Profit/Loss" = "利益/損失";
+"Total" = "合計";
+"Latest News" = "最新ニュース";
+"Settings" = "設定";
+"Manage" = "管理する";
+"Pro Version is Enabled" = "Pro版が有効になっています";
+"Notification" = "お知らせ";
+"Language" = "言語";
+"Follow us on twitter" = "Twitterでフォローします";
+"Rate our app" = "我々のアプリを評価する";
+"Coinflee App Version 1.0" = "Coinflee App Version 1.0";
+"English" = "英語";
+"Chinese" = "中国語";
+"Japanese" = "日本人";
+"French" = "フランス語";
+"Turkish" = "トルコ語";
+"Korean" = "韓国語";
+"Russian" = "ロシア";
+"Spanish" = "スペイン語";
+"Portuguese" = "ポルトガル語";
+"German" = "ドイツ人";
+"Upgrade to Pro" = "プロ仕様にアップグレードする";
+"UpgradeMessage" = "あなたのポートフォリオの価値が1,000ドルを超えています。coinfleeポートフォリオを使い続けるには、無制限のポートフォリオ価値を提供するプロバージョンにアップグレードする必要があります。";
+"ALL" = "すべて";
+"Default Currency" = "デフォルト通貨";
+"US Dollar" = "米ドル";
+"Australian Dollar" = "オーストラリアドル";
+"Brazilian Real" = "ブラジルレアル";
+"British Pound Sterling" = "英ポンド";
+"Canadian Dollar" = "カナダドル";
+"Chinese Yuan" = "中国人民元";
+"Euro" = "ユーロ";
+"Mexico Peso" = "メキシコペソ";
+"buy" = "購入";
+"sell" = "売る";
+"1 Day Change" = "1日の変更";
+"Volume(24 hours)" = "ボリューム（24時間）";
+"Available Supply" = "利用できる供給";
+"Total Supply" = "総供給";
+"Low(24 hours)" = "低（24時間）";
+"High(24 hours)" = "高（24時間）";
+"Select Coin" = "コインを選択";

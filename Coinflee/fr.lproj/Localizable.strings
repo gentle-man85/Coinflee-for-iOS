@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Bitcoin
+
+  Created by kcg on 2/20/19.
+  Copyright © 2019 Kevin. All rights reserved.
+*/
+"Market Cap" = "Capitalisation boursière";
+"Search your favorite coin" = "Cherchez votre pièce préférée";
+"Cancel" = "Annuler";
+"Add Transaction" = "Ajouter une transaction";
+"Favorites" = "Favoris";
+"all" = "tout";
+"add" ="ajouter";
+"favorites" = "favoris";
+"Amount" = "Montant";
+"Price" = "Prix";
+"Current Price" = "Prix ​​actuel";
+"Add Trade" = "Ajouter commerce";
+"Add your first icon by" = "Ajoutez votre première icône par";
+"clicking the" = "en cliquant sur le";
+"icon" = "icône";
+"Total Portfolio Value" = "Valeur totale du portefeuille";
+"Add" = "Ajouter";
+"Name" = "prénom";
+"Price" = "Prix";
+"Profit/Loss" = "Profit/Perte";
+"Total" = "Total";
+"Latest News" = "Dernières nouvelles";
+"Settings" = "Réglages";
+"Manage" = "Gérer";
+"Pro Version is Enabled" = "La version Pro est activée";
+"Notification" = "Notification";
+"Language" = "La langue";
+"Follow us on twitter" = "Suivez-nous sur Twitter";
+"Rate our app" = "Évaluez notre application";
+"Coinflee App Version 1.0" = "Coinflee App Version 1.0";
+"English" = "Anglais";
+"Chinese" = "chinois";
+"Japanese" = "Japonais";
+"French" = "français";
+"Turkish" = "turc";
+"Korean" = "coréen";
+"Russian" = "russe";
+"Spanish" = "Espanol";
+"Portuguese" = "Portugais";
+"German" = "allemand";
+"Upgrade to Pro" = "Passer à Pro";
+"UpgradeMessage" = "La valeur de votre portefeuille s’élève à plus de 1 000 dollars. Pour continuer à utiliser le portefeuille de coinflee, vous devez passer à la version professionnelle qui offre une valeur illimitée.";
+"ALL" = "TOUT";
+"Default Currency" = "devise par défaut";
+"US Dollar" = "Dollars américain";
+"Australian Dollar" = "Dollar australien";
+"Brazilian Real" = "Real brésilien";
+"British Pound Sterling" = "Livre sterling";
+"Canadian Dollar" = "Dollar canadien";
+"Chinese Yuan" = "Le yuan chinois";
+"Euro" = "euro";
+"Mexico Peso" = "Peso mexicain";
+"buy" = "acheter";
+"sell" = "vendre";
+"1 Day Change" = "Changement d'1 jour";
+"Volume(24 hours)" = "Volume (24 heures)";
+"Available Supply" = "Offre disponible";
+"Total Supply" = "Total de l'offre";
+"Low(24 hours)" = "Faible (24 heures)";
+"High(24 hours)" = "Élevé (24 heures)";
+"Select Coin" = "Sélectionner une pièce";
